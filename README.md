@@ -177,3 +177,13 @@ SaleType: Type of sale.
 SaleCondition: Condition of sale.
 
 These variables collectively provide a detailed description of various aspects of residential properties, which are crucial for understanding their market value, characteristics, and appeal to potential buyers. In predictive modeling, selecting and appropriately transforming these features can significantly impact the accuracy and usefulness of the models built to predict the sale price or other aspects of real estate transactions.
+
+Conclusion-  Xtream Gradiant Boosting with hyperparameter tunning using randomizes search Cross-Validation is best fit model for this dataset.It                     is giving good accuracy and generalized model.
+
+Report on challenges faced:
+
+* Data preprocessing: Dataset is large, so preprocessing is lengthy.
+
+* Feature Selection: Choosing the right set of features that are relevant to the problem at hand can significantly impact the accuracy of a model.
+
+* Solutions to problems we encountered while working on this project.
